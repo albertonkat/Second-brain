@@ -1,7 +1,22 @@
 [
+<<<<<<< Updated upstream
 	"obsidian-git",
 	"dataview",
 	"templater-obsidian",
 	"calendar-beta",
 	"obsidian-tasks-plugin"
 ]
+=======
+  "obsidian-git",
+  "dataview",
+  "templater-obsidian",
+  "calendar-beta",
+  "periodic-notes",
+  "obsidian-tasks-plugin",
+  "make-md",
+  "advanced-canvas",
+  "google-calendar",
+  "pdf-plus",
+  "smart-second-brain"
+]
+>>>>>>> Stashed changes
