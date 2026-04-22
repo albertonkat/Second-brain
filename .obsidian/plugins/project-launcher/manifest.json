@@ -1,0 +1,9 @@
+{
+    "id": "project-launcher",
+    "name": "Project Launcher",
+    "description": "Open any project from the chat or command palette with a fuzzy-search modal.",
+    "author": "Second Brain",
+    "version": "1.0.0",
+    "minAppVersion": "1.5.0",
+    "isDesktopOnly": false
+}
