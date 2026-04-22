@@ -1,0 +1,7 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "localeOverride": "system-default",
+  "weekStart": "locale",
+  "showWeeklyNote": false,
+  "sourceSettings": {}
+}
