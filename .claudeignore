@@ -1,0 +1,7 @@
+# Obsidian and plugin internals — not useful to Claude
+.obsidian/
+.space/
+.makemd/
+
+# Git internals
+.git/
